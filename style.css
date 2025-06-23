@@ -20,4 +20,7 @@ header{
 }
 section {
     background-color: orangered;
+    padding-bottom: 80px;
+    font-display: flex;
+    justify-content: center;
 }
