@@ -13,5 +13,8 @@ font-size: 20px;
 font-family: cursive;
 }
 header{
-    border: 2px solid orangered;
+    border-bottom: 2px solid orangered;
+    padding: 20px;
+    font-size: 32px;
+    color: white;
 }
