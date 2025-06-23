@@ -24,3 +24,7 @@ section {
     display: flex;
     justify-content: center;
 }
+div{
+    margin-right: 5%;
+    margin-left: 5%;
+}
