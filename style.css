@@ -21,6 +21,6 @@ header{
 section {
     background-color: orangered;
     padding-bottom: 80px;
-    font-display: flex;
+    display: flex;
     justify-content: center;
 }
